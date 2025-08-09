@@ -31,3 +31,10 @@ You can view the live landing page here: **[https://abknayeem.github.io/Creative
 * CSS3
 * HubSpot CRM
 * GitHub Pages
+
+### **About the Author**
+
+This project was created by Ahmad Bakhtiar Nayeem, a final-year Computer Science student with a passion for software quality assurance.
+
+* **LinkedIn:** [linkedin.com/in/abknayeem](https://www.linkedin.com/in/abknayeem)
+* **GitHub:** [github.com/abknayeem](https://github.com/abknayeem)
